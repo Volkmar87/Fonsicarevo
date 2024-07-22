@@ -52,7 +52,7 @@ Herramientas
 
 Notas Adicionales
 
-    Asegúrate de que la clave de API de OpenAI esté configurada correctamente en el archivo app.py.
+    Asegúrate de que la clave de API de OpenAI esté configurada correctamente en el archivo prueba.py.
     Verifica que la base de datos en AWS esté configurada y que la tabla fonsicar_volumen2 esté creada utilizando el Jupyter Notebook en db_config.ipynb.
     Para modificar la aplicación o agregar nuevas funcionalidades, edita el archivo app.py y actualiza los requisitos en requirements.txt.
 
